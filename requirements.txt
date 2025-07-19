@@ -1,5 +1,0 @@
-Flask
-pysnmp
-netmiko
-networkx
-pyvis
