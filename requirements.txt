@@ -1,5 +1,0 @@
-wmi
-psutil
-networkx
-matplotlib
-reportlab
